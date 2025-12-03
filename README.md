@@ -1,9 +1,7 @@
 
 ---
 
-## 2. `README.md` for a Git Repository
-
-Here is a full `README.md` you can drop into a repo (e.g. `pab-manifesto`):
+## 2. `README.md` 
 
 ```markdown
 # Physically Active Bits (PAB) — Post-Binary Manifesto
